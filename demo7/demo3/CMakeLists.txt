@@ -1,0 +1,1 @@
+add_library(demo3 STATIC libdemo3.c)

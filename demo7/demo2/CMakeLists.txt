@@ -1,0 +1,1 @@
+add_library(demo2 SHARED libdemo2.c)
